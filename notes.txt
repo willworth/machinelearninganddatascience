@@ -1,0 +1,8 @@
+stanford described it as getting computers to act without instructions
+
+
+
+
+https://en.wikipedia.org/wiki/TensorFlow
+
+https://www.tensorflow.org/
